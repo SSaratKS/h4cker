@@ -2,6 +2,20 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpAppLocker - C# Port Of The Get-AppLockerPolicy PS Cmdlet](http://feedproxy.google.com/~r/PentestTools/~3/r3EqsmFsAyk/sharpapplocker-c-port-of-get.html)
+- [PhishingKitTracker - Let's Track Phishing Kits To Give To Research Community Raw Material To Stud](http://feedproxy.google.com/~r/PentestTools/~3/tYI46yw5MEg/phishingkittracker-lets-track-phishing.html)
+- [FestIn - S3 Bucket Weakness Discovery](http://feedproxy.google.com/~r/PentestTools/~3/IsCkuOcHH-s/festin-s3-bucket-weakness-discovery.html)
+- [Chalumeau - Automated, Extendable And Customizable Credential Dumping Tool](http://feedproxy.google.com/~r/PentestTools/~3/n5PhxTEkoD0/chalumeau-automated-extendable-and.html)
+- [Gtunnel - A Robust Tunelling Solution Written In Golang](http://feedproxy.google.com/~r/PentestTools/~3/rJJ0YBAATJ8/gtunnel-robust-tunelling-solution.html)
+- [Taowu - A CobaltStrike Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/FoviBkgs9Wk/taowu-cobaltstrike-toolkit.html)
+- [UEFI_RETool - A Tool For UEFI Firmware Reverse Engineering](http://feedproxy.google.com/~r/PentestTools/~3/jJswEzISv-A/uefiretool-tool-for-uefi-firmware.html)
+- [Netenum - A Tool To Passively Discover Active Hosts On A Network](http://feedproxy.google.com/~r/PentestTools/~3/HSBbC7UuzVs/netenum-tool-to-passively-discover.html)
+- [DLInjector-GUI - DLL Injector Graphical User Interface](http://feedproxy.google.com/~r/PentestTools/~3/_kClm9oJJUM/dlinjector-gui-dll-injector-graphical.html)
+- [Xeca - PowerShell Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/xsbLQOGTFuA/xeca-powershell-payload-generator.html)
+- [Cnitch - Container Snitch Checks Running Processes Under The Docker Engine And Alerts If Any Are Found To Be Running As Root](http://feedproxy.google.com/~r/PentestTools/~3/6FGeYMW_2E0/cnitch-container-snitch-checks-running.html)
+- [Mistica - An Open Source Swiss Army Knife For Arbitrary Communication Over Application Protocols](http://feedproxy.google.com/~r/PentestTools/~3/3rKmWTT6gLw/mistica-open-source-swiss-army-knife.html)
+- [DeimosC2 - A Golang Command And Control Framework For Post-Exploitation](http://feedproxy.google.com/~r/PentestTools/~3/TLSuJyOoAGg/deimosc2-golang-command-and-control.html)
+- [EternalBlueC - EternalBlue Suite Remade In C/C++ Which Includes: MS17-010 Exploit, EternalBlue Vulnerability Detector, DoublePulsar Detector And DoublePulsar Shellcode & DLL Uploader](http://feedproxy.google.com/~r/PentestTools/~3/YshWuG7n0_s/eternalbluec-eternalblue-suite-remade.html)
 - [CWFF - Create Your Custom Wordlist For Fuzzing](http://feedproxy.google.com/~r/PentestTools/~3/bTZRr6ehdsY/cwff-create-your-custom-wordlist-for.html)
 - [Cloudsplaining - An AWS IAM Security Assessment Tool That Identifies Violations Of Least Privilege And Generates A Risk-Prioritized Report](http://feedproxy.google.com/~r/PentestTools/~3/-7enjmYyTw8/cloudsplaining-aws-iam-security.html)
 - [Kubei - A Flexible Kubernetes Runtime Scanner](http://feedproxy.google.com/~r/PentestTools/~3/7jhcROllIh4/kubei-flexible-kubernetes-runtime.html)
